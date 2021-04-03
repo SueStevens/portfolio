@@ -1,0 +1,17 @@
+.important {
+  color:black
+}
+body {
+  background-color:grey
+}
+h1,h2,h3,h4 {
+  font-size: 20px;
+}
+img {
+  float:right
+}
+.box1 {
+  width: 500px;
+  border: transparent
+  background-color; transparent
+}
